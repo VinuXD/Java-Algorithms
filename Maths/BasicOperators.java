@@ -1,4 +1,6 @@
-// Author github.com/VinuXD
+// Made By https://github.com/VinuXD
+
+// Basic operators
 
 class BasicOperators {
     public static void main(String args[]) {
