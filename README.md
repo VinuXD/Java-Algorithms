@@ -1,2 +1,1 @@
-# Java-Algorithms
-This JAVA repository contains solutions for common algorithms and problems.
+This branch to play with algorithms. Solutions maybe incorrect here (It can be a LIE). Give a star if you like my work xD
